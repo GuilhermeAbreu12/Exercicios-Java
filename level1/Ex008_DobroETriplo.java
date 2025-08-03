@@ -1,6 +1,6 @@
 /* Peça um número e exiba o seu dobro e o seu triplo. */
 import java.util.Scanner;
-public class ex_008 {
+public class Ex008_DobroETriplo {
     public static void main(String[] args){
         Scanner recebe = new Scanner(System.in);
         double num;
