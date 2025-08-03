@@ -1,7 +1,7 @@
 /*  Peça ao usuário para digitar seu nome e sobrenome e, em seguida, exiba o nome completo na tela. */
 import java.util.Scanner;
 
-public class ex_002{
+public class Ex002_BemVindo{
     public static void main(String[] args){
         Scanner leia = new Scanner(System.in);
         String nome, sobrenome;
