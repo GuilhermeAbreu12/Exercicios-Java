@@ -1,6 +1,6 @@
 /* Peça ao usuário para digitar três notas de um aluno e calcule e exiba a média aritmética. */
 import java.util.Scanner;
-public class ex_004 {
+public class Ex004_Media {
     public static void main(String[] args){
         Scanner leia = new Scanner(System.in);
         int nota1, nota2, nota3;
