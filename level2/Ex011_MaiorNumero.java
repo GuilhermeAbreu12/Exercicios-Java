@@ -1,7 +1,7 @@
 /* Maior de Dois Números: Peça dois números e indique qual deles é o maior. */
 package level2;
 import java.util.Scanner;
-public class ex_011 {
+public class Ex011_MaiorNumero {
     public static void main(String[] args){
         Scanner recebe = new Scanner(System.in);
         double num1, num2;
