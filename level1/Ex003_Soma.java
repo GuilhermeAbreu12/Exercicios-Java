@@ -1,6 +1,6 @@
 /* Peça ao usuário para digitar dois números inteiros e imprima a soma deles. */
 import java.util.Scanner;
-public class ex_003 {
+public class Ex003_Soma {
     public static void main(String[] args){
         Scanner leia = new Scanner(System.in);
         int num1, num2;
