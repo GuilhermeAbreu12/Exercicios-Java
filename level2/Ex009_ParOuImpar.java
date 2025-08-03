@@ -1,7 +1,7 @@
 /* Par ou Ímpar: Peça um número e verifique se ele é par ou ímpar. */
 package level2;
 import java.util.Scanner;
-public class ex_009 {
+public class Ex009_ParOuImpar {
     public static void main(String[] args){
         Scanner recebe = new Scanner(System.in);
         double num;
