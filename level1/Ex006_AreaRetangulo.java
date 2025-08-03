@@ -1,6 +1,6 @@
 /* Crie um programa que calcule a área de um retângulo. Peça ao usuário a base e a altura. */
 import java.util.Scanner;
-public class ex_006 {
+public class Ex006_AreaRetangulo {
     public static void main(String[] args){
         Scanner recebe = new Scanner(System.in);
         double area, base, altura;
