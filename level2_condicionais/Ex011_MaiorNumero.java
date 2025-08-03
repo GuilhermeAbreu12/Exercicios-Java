@@ -1,5 +1,5 @@
 /* Maior de Dois Números: Peça dois números e indique qual deles é o maior. */
-package level2;
+package level2_condicionais;
 import java.util.Scanner;
 public class Ex011_MaiorNumero {
     public static void main(String[] args){

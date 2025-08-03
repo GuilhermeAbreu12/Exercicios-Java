@@ -1,5 +1,5 @@
 /* Maior de Idade: Peça a idade do usuário e informe se ele é maior de idade (>= 18 anos). */
-package level2;
+package level2_condicionais;
 import java.util.Scanner;
 public class Ex010_MaiorDeIdade {
     public static void main(String[] args){

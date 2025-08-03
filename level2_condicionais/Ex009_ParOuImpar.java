@@ -1,5 +1,5 @@
 /* Par ou Ímpar: Peça um número e verifique se ele é par ou ímpar. */
-package level2;
+package level2_condicionais;
 import java.util.Scanner;
 public class Ex009_ParOuImpar {
     public static void main(String[] args){

@@ -5,7 +5,7 @@
     - aprovado (média >= 7.0), 
     - está de recuperação (média >= 5.0 e < 7.0) 
     - ou foi reprovado (média < 5.0). */
-package level2;
+package level2_condicionais;
 import java.util.Scanner;
 public class Ex012_AprovacaoAlunos {
     public static void main(String[] args){
