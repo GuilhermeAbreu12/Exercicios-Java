@@ -1,6 +1,6 @@
 /* Peça um número inteiro e mostre na tela o seu antecessor e o seu sucessor. */
 import java.util.Scanner;
-public class ex_007 {
+public class Ex007_Antecessor {
     public static void main(String[] args){
         Scanner recebe = new Scanner(System.in);
         int num, antecessor, sucessor;
