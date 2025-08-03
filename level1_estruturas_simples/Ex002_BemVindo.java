@@ -1,4 +1,5 @@
 /*  Peça ao usuário para digitar seu nome e sobrenome e, em seguida, exiba o nome completo na tela. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 
 public class Ex002_BemVindo{

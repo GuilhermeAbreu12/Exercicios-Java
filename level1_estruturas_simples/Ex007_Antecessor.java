@@ -1,4 +1,5 @@
 /* Peça um número inteiro e mostre na tela o seu antecessor e o seu sucessor. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex007_Antecessor {
     public static void main(String[] args){

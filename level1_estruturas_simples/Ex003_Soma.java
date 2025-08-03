@@ -1,4 +1,5 @@
 /* Peça ao usuário para digitar dois números inteiros e imprima a soma deles. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex003_Soma {
     public static void main(String[] args){

@@ -1,4 +1,5 @@
 /* Crie um programa que calcule a área de um retângulo. Peça ao usuário a base e a altura. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex006_AreaRetangulo {
     public static void main(String[] args){

@@ -1,4 +1,5 @@
 /* Peça ao usuário para digitar três notas de um aluno e calcule e exiba a média aritmética. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex004_Media {
     public static void main(String[] args){

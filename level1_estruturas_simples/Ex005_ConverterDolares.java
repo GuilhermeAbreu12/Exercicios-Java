@@ -1,4 +1,5 @@
 /* Crie um programa que converta um valor em Reais (R$) para Dólares (US$). Peça ao usuário o valor em Reais e a cotação do dólar. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex005_ConverterDolares {
     public static void main(String[] args){

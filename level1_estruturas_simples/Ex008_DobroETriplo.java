@@ -1,4 +1,5 @@
 /* Peça um número e exiba o seu dobro e o seu triplo. */
+package level1_estruturas_simples;
 import java.util.Scanner;
 public class Ex008_DobroETriplo {
     public static void main(String[] args){
